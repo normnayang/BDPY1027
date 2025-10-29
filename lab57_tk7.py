@@ -1,6 +1,7 @@
 import tkinter
 from tkinter import font
 
+
 def updateText(event):
     label1.config(text=entry1.get())
 
